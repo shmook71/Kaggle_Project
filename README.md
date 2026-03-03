@@ -64,3 +64,6 @@ git clone https://github.com/shmook71/Kaggle_Project.git
 cd Kaggle_Project
 pip install -r requirements.txt
 streamlit run app.py
+
+🔗 Live Dashboard:
+https://kaggleproject-lnwlsh7goky59ejeiqxi.streamlit.app
